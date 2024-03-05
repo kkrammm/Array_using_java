@@ -1,5 +1,5 @@
 # Array_using_java
-This is java program to describe the operations in Array data structure. Here the operations like
+This is a simple java program to describe the operations in Array data structure. Here the operations like
 1. Traversing
 2. Searching
 3. Inserting
